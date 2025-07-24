@@ -48,9 +48,11 @@ Plus, coding in **Python** lets me build those tools from scratch — and that�
 
 ## 👇🏽This is all the projects I have created
 
-- [Python SMS Spamming Tool](https://github.com/Thanwisut/Spam)
-- [Simple Phishing Tool (Edited from Zphisher)](https://github.com/Thanwisut/S7IAM-PHISH)
-- [NGL Spamming Tool](https://github.com/Thanwisut/nglspam-lnwper)
+<ul>
+  <li><a href="https://github.com/Thanwisut/Spam">📲 Python SMS Spamming Tool</a></li>
+  <li><a href="https://github.com/Thanwisut/S7IAM-PHISH">🎣 Simple Phishing Tool (Edited from Zphisher)</a></li>
+  <li><a href="https://github.com/Thanwisut/nglspam-lnwper">📤 NGL Spamming Tool</a></li>
+</ul
 
 ---
 
@@ -109,9 +111,11 @@ You’re officially awesome. Keep being curious, keep hacking life the right way
 
 ## 👇🏽นี่คือ โปรเจคท์ที่ผมได้สร้างทั้งหมด 
 
-- [Python SMS Spamming Tool](https://github.com/Thanwisut/Spam)
-- [Simple Phishing Tool (Edited from Zphisher)](https://github.com/Thanwisut/S7IAM-PHISH)
-- [NGL Spamming Tool](https://github.com/Thanwisut/nglspam-lnwper)
+<ul>
+  <li><a href="https://github.com/Thanwisut/Spam">📲 Python SMS Spamming Tool</a></li>
+  <li><a href="https://github.com/Thanwisut/S7IAM-PHISH">🎣 Simple Phishing Tool (Edited from Zphisher)</a></li>
+  <li><a href="https://github.com/Thanwisut/nglspam-lnwper">📤 NGL Spamming Tool</a></li>
+</ul
 
 ---
 

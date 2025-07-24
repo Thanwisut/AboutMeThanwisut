@@ -44,6 +44,14 @@ Plus, coding in **Python** lets me build those tools from scratch — and that�
 > To master cybersecurity, wield AI as my shield and sword,  
 > and make the digital world a safer place —  
 > one hack, one script, one breakthrough at a time.
+---
+
+##👇🏽This is all the projects I have created
+[python sms spamming tool ](https://github.com/Thanwisut/Spam)
+[simple phishing tool edited from zphisher]
+(https://github.com/Thanwisut/S7IAM-PHISH)
+[NGL spamming]
+(https://github.com/Thanwisut/nglspam-lnwper)
 
 ---
 
@@ -97,6 +105,14 @@ You’re officially awesome. Keep being curious, keep hacking life the right way
 โลกฉลาดขึ้น ความเสี่ยงก็ฉลาดขึ้น ผมอยากขี่คลื่น AI เพื่อสร้างเครื่องมืออัจฉริยะ ช่วยงานซ้ำ ๆ ให้ล้ำ และป้องกันภัยคุกคามอย่างมีประสิทธิภาพ
 
 การเขียน Python คือเวทมนตร์ที่ทำให้ผมสร้างสรรค์สิ่งเหล่านี้เอง
+---
+
+##👇🏽นี่คือ โปรเจคท์ที่ผมได้สร้างทั้งหมด 
+[python sms spamming tool ](https://github.com/Thanwisut/Spam)
+[simple phishing tool edited from zphisher]
+(https://github.com/Thanwisut/S7IAM-PHISH)
+[NGL spamming]
+(https://github.com/Thanwisut/nglspam-lnwper)
 
 ---
 

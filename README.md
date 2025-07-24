@@ -130,4 +130,10 @@ You’re officially awesome. Keep being curious, keep hacking life the right way
 
 ---
 
-✨ **ขอบคุณที่อ่านมาถึงตรงนี้!** ✨  
+## 🛰️ ติดตามภารกิจผม
+
+[![TikTok](https://img.shields.io/badge/TikTok-@alaricbannet-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@alaricbannet)
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Inwper2551)
+
+
+

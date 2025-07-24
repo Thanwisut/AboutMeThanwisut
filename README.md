@@ -49,7 +49,7 @@ Plus, coding in **Python** lets me build those tools from scratch — and that�
 ## 👇🏽This is all the projects I have created
 [python sms spamming tool ](https://github.com/Thanwisut/Spam)
 
-[simple phishing tool edited from zphisher]
+[simple phishing tool edited from zphisher ]
 (https://github.com/Thanwisut/S7IAM-PHISH)
 
 [NGL spamming]

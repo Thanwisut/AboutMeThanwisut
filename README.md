@@ -130,10 +130,21 @@ You’re officially awesome. Keep being curious, keep hacking life the right way
 
 ---
 
-## 🛰️ ติดตามภารกิจผม
+<h2 align="center">🛰️ ติดตามภารกิจผม</h2>
 
-[![TikTok](https://img.shields.io/badge/TikTok-@alaricbannet-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@alaricbannet)
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Inwper2551)
+<p align="center">
+  <a href="https://www.tiktok.com/@alaricbannet">
+    <img src="https://img.shields.io/badge/TikTok-@alaricbannet-black?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://t.me/Inwper2551">
+    <img src="https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
 
+<p align="center"><i>“We hack to learn — not to destroy.”</i></p>
+
+---
+
+<h4 align="center">Made with ❤️ and terminal by Thanwisut</h4
 
 
